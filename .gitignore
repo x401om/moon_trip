@@ -5,6 +5,23 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
+# EasyUtils Projects Settings
+
+/Assets/FacebookSDK/SDK/Resources/FacebookSettings.asset
+/Assets/FacebookSDK/SDK/Resources/FacebookSettings.asset.meta
+/Assets/GameSparks/Resources/GameSparksSettings.asset
+/Assets/GameSparks/Resources/GameSparksSettings.asset.meta
+/Assets/Firebase/google-services.json
+/Assets/Firebase/google-services.json.meta
+/Assets/Firebase/GoogleService-Info.plist
+/Assets/Firebase/GoogleService-Info.plist.meta
+
+# Rider
+/Assets/Plugins/Editor/JetBrains
+/Assets/Plugins/Editor/JetBrains.meta
+/Assets/Plugins/Editor.meta
+/.idea/
+
 # Visual Studio 2015 cache directory
 /.vs/
 
@@ -32,3 +49,28 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.unitypackage.meta
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.idea/.idea.lingoland/riderModule.iml
+.idea/.idea.lingoland/.idea/contentModel.xml
+.idea/.idea.lingoland/.idea/modules.xml
+.idea/.idea.lingoland/.idea/vcs.xml
+.idea/.idea.lingoland/.idea/workspace.xml
+.vscode/settings.json
+/iOS
+/xcode
+
+Assets/Plugins/UniRx/UniRxExamples
+Assets/Plugins/UniRx/UniRxExamples.meta
+/EasyNativePlugins/iOS/Build
+*.pdb.meta
